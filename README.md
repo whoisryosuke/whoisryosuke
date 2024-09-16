@@ -2,7 +2,7 @@
 
 I’m Ryosuke, I work at PlayStation prototyping new experiences across console, VR, mobile, and more. Before that I ran a cannabis publication and studio for over 10 years.
 
-I do a lot of FOSS web dev and game dev, mostly in UI and tooling. You'll see me use a variety of different languages and technology, but I tend to hang around these usual suspects: **ReactJS**, **Typescript**, **NodeJS**, **Rust**, **C++**, **Python**.
+I do a lot of FOSS web dev and game dev, mostly in UI and tooling. You'll see me use a variety of different languages and technology, but I tend to hang around these usual suspects: **ReactJS**, [**Typescript**](https://github.com/whoisryosuke?tab=repositories&q=&type=source&language=typescript&sort=), [**Rust**](https://github.com/whoisryosuke?tab=repositories&q=&type=source&language=rust&sort=), [**C++**](https://github.com/whoisryosuke?tab=repositories&q=&type=source&language=c%2B%2B&sort=), [**Python**](https://github.com/whoisryosuke?tab=repositories&q=&type=source&language=python&sort=).
 
 ## Projects
 
