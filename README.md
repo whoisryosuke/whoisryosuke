@@ -27,6 +27,6 @@ I do a lot of FOSS web dev and game dev, mostly in UI and tooling. You'll see me
 | [**delta-skin-onyx**](https://github.com/whoisryosuke/delta-skin-onyx) | Dark skin for Delta app made using Blender | 🎮🎨 | [🔗](https://whoisryosuke.com/blog/2024/the-guide-for-designing-delta-skins) |
 | [**triple-triad**](https://github.com/whoisryosuke/triple-triad) | Triple Triad from FF8 remade on web | 🎮 | [🔗](https://whoisryosuke.com/blog/2024/recreating-triple-triad-in-reactjs) |
 | [**bevy-galaga**](https://github.com/whoisryosuke/bevy-galaga) | Galaga in Bevy game engine | 🎮 | [🔗](https://whoisryosuke.com/blog/2023/making-galaga-in-rust-with-bevy-part-1) |
-| [**bevy-galaga**](https://github.com/whoisryosuke/bevy-katamari) | Katamari Damacy  in Bevy game engine | 🎮 | [🔗](https://whoisryosuke.com/blog/2023/making-katamari-for-bevy-game-jam) |
+| [**bevy-katamari**](https://github.com/whoisryosuke/bevy-katamari) | Katamari Damacy in Bevy game engine | 🎮 | [🔗](https://whoisryosuke.com/blog/2023/making-katamari-for-bevy-game-jam) |
 | [**solid-canvaskit-renderer**](https://github.com/whoisryosuke/solid-canvaskit-renderer) | Native rendering using SolidJS + Skia | 💻🌈 | [🔗]([https://whoisryosuke.com/blog/2023/making-katamari-for-bevy-game-jam](https://whoisryosuke.com/blog/2022/ditch-the-dom-with-solidjs-and-skia-canvaskit)) |
 
