@@ -34,4 +34,4 @@ I do a lot of FOSS web dev and game dev, mostly in UI and tooling. You'll see me
 
 Check out my GIFs on Giphy and use them on social (or as stickers on IG).
 
-<iframe src="https://giphy.com/embed/0j2sMmntroH4LeXE32" width="270" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+[![PS1 Memory Card in Island Blue color scheme](./assets/memory-card.gif)](https://giphy.com/whoisryosuke)
