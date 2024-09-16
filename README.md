@@ -19,7 +19,7 @@ I do a lot of FOSS web dev and game dev, mostly in UI and tooling. You'll see me
 | [**wgpu-hello-world**](https://github.com/whoisryosuke/wgpu-hello-world) | Sandbox for WebGPU dev using Rust | 🌈 | [🔗](https://whoisryosuke.com/blog/2022/primitive-geometry-in-wgpu-and-rust) |
 | [**blender-render-buddy**](https://github.com/whoisryosuke/blender-render-buddy) | Blender addon that simplifies rendering | 🎮⌨️ | [🔗](https://whoisryosuke.com/blog/2024/how-i-made-the-render-buddy-blender-plugin) |
 | [**geometry-node-graph**](https://github.com/whoisryosuke/geometry-node-graph) | Export Blender geometry nodes for viewing on web | 🟠💻 | [🔗](https://whoisryosuke.com/blog/2023/exporting-geometry-nodes-from-blender) |
-| [**blender-midi-keyframes**](https://github.com/whoisryosuke/blender-midi-keyframes) | Import MIDI as animation into Blender | 🟠🎹 | [🔗](https://whoisryosuke.com/blog/2024/midi-powered-animations-in-blender)**** |
+| [**blender-midi-keyframes**](https://github.com/whoisryosuke/blender-midi-keyframes) | Import MIDI as animation into Blender | 🟠🎹 | [🔗](https://whoisryosuke.com/blog/2024/midi-powered-animations-in-blender) |
 | [**blender-gamepad**](https://github.com/whoisryosuke/blender-gamepad) | Control + animate in Blender with gamepad | 🟠🎮 | [🔗](https://whoisryosuke.com/blog/2024/using-gamepads-in-blender) |
 | [**ryos-blender-examples**](https://github.com/whoisryosuke/ryos-blender-examples) | Examples of various techniques in Blender | 🟠 | |
 | [**figma-css-theme-generator**](https://github.com/whoisryosuke/figma-css-theme-generator) | Generates CSS theme from Figma styles | 🎨 | |
