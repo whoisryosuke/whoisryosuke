@@ -29,3 +29,9 @@ I do a lot of FOSS web dev and game dev, mostly in UI and tooling. You'll see me
 | [**bevy-galaga**](https://github.com/whoisryosuke/bevy-galaga)                             | Galaga in Bevy game engine                             | 🎮                                      | [🔗](https://whoisryosuke.com/blog/2023/making-galaga-in-rust-with-bevy-part-1)                                                                                  |
 | [**bevy-katamari**](https://github.com/whoisryosuke/bevy-katamari)                         | Katamari Damacy in Bevy game engine                    | 🎮                                      | [🔗](https://whoisryosuke.com/blog/2023/making-katamari-for-bevy-game-jam)                                                                                       |
 | [**solid-canvaskit-renderer**](https://github.com/whoisryosuke/solid-canvaskit-renderer)   | Native rendering using SolidJS + Skia                  | 💻🌈                                    | [🔗](<[https://whoisryosuke.com/blog/2023/making-katamari-for-bevy-game-jam](https://whoisryosuke.com/blog/2022/ditch-the-dom-with-solidjs-and-skia-canvaskit)>) |
+
+## GIFs
+
+Check out my GIFs on Giphy and use them on social (or as stickers on IG).
+
+<iframe src="https://giphy.com/embed/0j2sMmntroH4LeXE32" width="270" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
