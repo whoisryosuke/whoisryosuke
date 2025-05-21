@@ -6,8 +6,6 @@ I do a lot of FOSS web dev and game dev, mostly in UI and tooling. You'll see me
 
 ## Projects
 
-### Big Projects
-
 | Project                                                                                    | Description                                            | Category                                | Blog                                                                                                                                                             |
 | :----------------------------------------------------------------------------------------- | :----------------------------------------------------- | :-------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**ryosuke-next-blog-2023**](https://github.com/whoisryosuke/ryosuke-next-blog-2023)       | My current personal blog and portfolio                 | 📘💻                                    | [🔗](https://whoisryosuke.com/blog/2024/the-vision-pro-redesign-of-2024)                                                                                         |
